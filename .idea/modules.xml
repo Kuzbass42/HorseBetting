@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HorseBetting.iml" filepath="$PROJECT_DIR$/.idea/modules/HorseBetting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HorseBetting_main.iml" filepath="$PROJECT_DIR$/.idea/modules/HorseBetting_main.iml" group="HorseBetting" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HorseBetting_test.iml" filepath="$PROJECT_DIR$/.idea/modules/HorseBetting_test.iml" group="HorseBetting" />
+    </modules>
+  </component>
+</project>
